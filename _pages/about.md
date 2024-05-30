@@ -19,7 +19,9 @@ Focusing on interdisciplinary field of artificial intelligence (AI) and medical 
 
 News
 ------
-- **课题组长期招收博士研究生和硕士研究生, 欢迎联系！同时欢迎南京大学本科生进组科研训练！**
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025级保研/推免的硕士研究生4人，直博生/考核制博士研究生2人`  
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `课题组招收2024级考研的硕士研究生4人`  
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `欢迎南京大学本科生进组进行科研训练`  
 - [05/2024] One paper on multimodal fusion was **early accepted** in MICCAI.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
 - [03/2024] One paper on source-free domain adaptation was accepted in Neural Networks.
