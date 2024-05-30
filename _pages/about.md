@@ -1,49 +1,74 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm/). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also had work experience in Tencent AI Lab under the supervision of Dr. Jianhua Yao
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Research Interests
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Focusing on interdisciplinary field of artificial intelligence (AI) and medical data analysis, aiming to develop intelligent systems that advance clinical decision-making and healthcare, including:  
+- automated disease diagnosis  
+- multi-modality data analysis
+- model explainability  
+- multi-site data adaptation  
 
-Create content & metadata
+News
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- **课题组长期招收博士研究生和硕士研究生, 欢迎联系！同时欢迎南京大学本科生进组科研训练！**
+- [05/2024] One paper on multimodal fusion was **early accepted** in MICCAI.
+- [05/2024] Join **Nanjing University**, a new chapter starts!
+- [03/2024] One paper on source-free domain adaptation was accepted in Neural Networks.
+- [02/2024] One paper on interpretable fMRI analysis was accepted in IEEE Transactions on Biomedical Engineering.
+- [10/2023] One paper on interpretable fMRI analysis was accepted in MICCAI.
+- [05/2023] One paper on fMRI adaptation was accepted in Human Brain Mapping.
+- [03/2023] One paper on fundus lesion segmentation was accepted in Neurocomputing.
+- [02/2023] One paper on fMRI adaptation was accepted in Medical Image Analysis.
+- [10/2022] One paper on microscopy image classification was accepted in Genomics, Proteomics & Bioinformatics.
+- [10/2022] One paper on structural MRI adaptation was accepted in MICCAI. 
+- [09/2022] One paper on PET/CT analysis was accepted in MLMI.
+- [06/2022] One paper on pathological complete response prediction was accepted in Frontiers in Oncology.
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Selected Publications
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+### Journals
+- **Fang, Y.**, Wang, M., Potter, G. G., & Liu, M. (2023). Unsupervised cross-domain functional MRI adaptation for automated major depressive disorder identification. Medical Image Analysis, 84, 102707. (IF: 13.8, JCR Q1)
+- **Fang, Y.**, Yap, P. T., Lin, W., Zhu, H., & Liu, M. (2024). Source-free unsupervised domain adaptation: A survey. Neural Networks, 106230. (IF: 7.8, JCR Q1)
+- Wang, X.\*, **Fang, Y.\***, Yang, S., Zhu, D., Wang, M., Zhang, J., ... & Han, X. (2021). A hybrid network for automatic hepatocellular carcinoma segmentation in H&E-stained whole slide images. Medical Image Analysis, 68, 101914. (IF: 13.8, JCR Q1)
+- **Fang, Y.**, Potter, G. G., Wu, D., Zhu, H., & Liu, M. (2023). Addressing multi-site functional MRI heterogeneity through dual-expert collaborative learning for brain disease identification. Human Brain Mapping, 44(11), 4256-4271. (IF: 5.4, JCR Q1)
+- **Fang, Y.**, Zhu, D., Yao, J., Yuan, Y., & Tong, K. Y. (2020). ABC-Net: Area-boundary constraint network with dynamical feature selection for colorectal polyp segmentation. IEEE Sensors Journal, 21(10), 11799-11809. (IF: 4.3, JCR Q1)
+- Wang, X.\*, **Fang, Y.\***, Yang, S., Zhu, D., Wang, M., Zhang, J., Tong, K. Y., & Han, X. (2023). CLC-Net: contextual and local collaborative network for lesion segmentation in diabetic retinopathy images. Neurocomputing, 527, 100-109. (IF: 7.1, JCR Q2)
+- Wong, W. W.\*, **Fang, Y.\***, Chu, W. C., Shi, L., & Tong, K. Y. (2019). What kind of brain structural connectivity remodeling can relate to residual motor function after stroke?. Frontiers in Neurology, 10, 1111. (IF: 4.1, JCR Q2)
+- Yang, S.\*, Shen, T.\*, **Fang, Y.\***, Wang, X., Zhang, J., Yang, W., ... & Han, X. (2023). DeepNoise: Signal and Noise Disentanglement Based on Classifying Fluorescent Microscopy Images via Deep Learning. Genomics, Proteomics & Bioinformatics, 20(5), 989-1001. (IF: 6.4, JCR Q1)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Conferences
+- **Fang, Y.**, Zhu, D., Zhou, N., Liu, L., & Yao, J. (2021, September). PiPo-Net: A semi-automatic and polygon-based annotation method for pathological images. In 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 2978-2984). IEEE.
+- **Fang, Y.**, Chen, C., Yuan, Y., & Tong, K. Y. (2019, October). Selective feature aggregation network with area-boundary constraints for polyp segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 302-310). Springer, Cham.
+- **Fang, Y.**, Daniel Oldan, J., Lin, W., Parke Schrank, T., Gray Yarbrough, W., Isaeva, N., & Liu, M. (2022). Prediction of HPV-associated genetic diversity for squamous cell carcinoma of head and neck cancer based on 18F-FDG PET/CT. In International Workshop on Machine Learning in Medical Imaging (pp. 358-366). Springer, Cham.
+- **Fang, Y.**, Chen, S., Wang, X., Leung, K. W., Wang, X., & Tong, K. Y. (2018, July). Real-time electromyography-driven functional electrical stimulation cycling system for chronic stroke rehabilitation. In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 2515-2518). IEEE.
 
-For more info
+(\* means co-first author)
+
+Journal Reviews
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- Medical Image Analysis
+- IEEE Transactions on Medical Imaging
+- Pattern Recognition
+- Neural Networks
+
+Selected Awards
+------
+- Outstanding Tutor Award, The Chinese University of Hong Kong, 2020 
+- First Prize in International Brain Computer Interface Hackathon, Honolulu, USA, 2018 
+- Excellent Graduate of Liaoning Province, Northeastern University, 2016 
+- National Scholarship (2 times), Ministry of Education of P.R.China, 2014 & 2015 
+- Meritorious Winner in Mathematical Contest In Modeling, COMAP, USA, 2015 
+- Outstanding Student, Northeastern University, 2013 & 2015 
+- Second Prize in The Chinese Mathematics Competition, Chinese Mathematical Society, 2013
+
+
