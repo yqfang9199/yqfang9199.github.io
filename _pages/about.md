@@ -19,21 +19,19 @@ Focusing on interdisciplinary field of artificial intelligence (AI) and medical 
 
 News
 ------
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025级保研/推免的硕士研究生4人，直博生/考核制博士研究生2人`  
-![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `课题组招收2024级考研的硕士研究生4人`  
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `欢迎南京大学本科生进组进行科研训练`  
-- [05/2024] One paper on multimodal fusion was **early accepted** in MICCAI.
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生4人，欢迎与我联系！`  
+- [05/2024] One paper on multimodal fusion was **early accepted** in **MICCAI**.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
-- [03/2024] One paper on source-free domain adaptation was accepted in Neural Networks.
-- [02/2024] One paper on interpretable fMRI analysis was accepted in IEEE Transactions on Biomedical Engineering.
-- [10/2023] One paper on interpretable fMRI analysis was accepted in MICCAI.
-- [05/2023] One paper on fMRI adaptation was accepted in Human Brain Mapping.
-- [03/2023] One paper on fundus lesion segmentation was accepted in Neurocomputing.
-- [02/2023] One paper on fMRI adaptation was accepted in Medical Image Analysis.
-- [10/2022] One paper on microscopy image classification was accepted in Genomics, Proteomics & Bioinformatics.
-- [10/2022] One paper on structural MRI adaptation was accepted in MICCAI. 
-- [09/2022] One paper on PET/CT analysis was accepted in MLMI.
-- [06/2022] One paper on pathological complete response prediction was accepted in Frontiers in Oncology.
+- [03/2024] One paper on source-free domain adaptation was accepted in **Neural Networks**.
+- [02/2024] One paper on interpretable fMRI analysis was accepted in **IEEE TBME**.
+- [10/2023] One paper on interpretable fMRI analysis was accepted in **MICCAI**.
+- [05/2023] One paper on fMRI adaptation was accepted in **Human Brain Mapping**.
+- [03/2023] One paper on fundus lesion segmentation was accepted in **Neurocomputing**.
+- [02/2023] One paper on fMRI adaptation was accepted in **Medical Image Analysis**.
+- [10/2022] One paper on microscopy image classification was accepted in **Genomics, Proteomics & Bioinformatics**.
+- [10/2022] One paper on structural MRI adaptation was accepted in **MICCAI**. 
+- [09/2022] One paper on PET/CT analysis was accepted in **MLMI**.
+- [06/2022] One paper on pathological complete response prediction was accepted in **Frontiers in Oncology**.
 
 Selected Publications
 ------
