@@ -24,10 +24,10 @@ author:
   avatar           : "yuqifang_avatar.png"
   name             : "Yuqi FANG (房钰棋)"
   pronouns         : # example: "she/her"  
-  bio              : "AI for health"
+  bio              : "Assistant Professor"
   employer         : "Nanjing University"
   location         : "Jiangsu, Suzhou"
-  uri              : "https://is.nju.edu.cn/fyq/main.htm"
+  uri              : # "https://is.nju.edu.cn/fyq/main.htm"
   email            : # "email" 
 
   # Academic websites
