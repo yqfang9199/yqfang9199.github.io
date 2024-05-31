@@ -19,7 +19,7 @@ Focusing on interdisciplinary field of artificial intelligence (AI) and medical 
 
 News
 ------
-#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生4人，欢迎与我联系！`  
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生4人，欢迎与我联系！`  
 - [05/2024] One paper on multimodal fusion was **early accepted** in **MICCAI**.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
 - [03/2024] One paper on source-free domain adaptation was accepted in **Neural Networks**.
