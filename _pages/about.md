@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm/). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en).
+Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm/). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en) (AIMBE Fellow).
 
 Research Interests
 ------
