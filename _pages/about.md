@@ -51,7 +51,7 @@ Selected Publications
 - **Fang, Y.**, Daniel Oldan, J., Lin, W., Parke Schrank, T., Gray Yarbrough, W., Isaeva, N., & Liu, M. (2022). Prediction of HPV-associated genetic diversity for squamous cell carcinoma of head and neck cancer based on 18F-FDG PET/CT. In International Workshop on Machine Learning in Medical Imaging (pp. 358-366). Springer, Cham.
 - **Fang, Y.**, Chen, S., Wang, X., Leung, K. W., Wang, X., & Tong, K. Y. (2018, July). Real-time electromyography-driven functional electrical stimulation cycling system for chronic stroke rehabilitation. In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 2515-2518). IEEE.
 
-(\* means co-first author)
+(\* means co-first authors)
 
 Journal Reviews
 ------
@@ -68,7 +68,5 @@ Selected Awards
 - Excellent Graduate of Liaoning Province, Northeastern University, 2016 
 - National Scholarship (2 times), Ministry of Education of P.R.China, 2014 & 2015 
 - Meritorious Winner in Mathematical Contest In Modeling, COMAP, USA, 2015 
-- Outstanding Student, Northeastern University, 2013 & 2015 
-- Second Prize in The Chinese Mathematics Competition, Chinese Mathematical Society, 2013
 
 
