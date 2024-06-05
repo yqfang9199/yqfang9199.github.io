@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm/). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en) (AIMBE Fellow).
+Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu TONG](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en) (AIMBE Fellow).
 
 Research Interests
 ------
@@ -19,7 +19,7 @@ Focusing on interdisciplinary field of artificial intelligence (AI) and medical 
 
 News
 ------
-### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生4人，欢迎与我联系！`  
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生2人，欢迎与我联系！`  
 - [05/2024] One paper on multimodal fusion was **early accepted** in **MICCAI**.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
 - [03/2024] One paper on source-free domain adaptation was accepted in **Neural Networks**.
