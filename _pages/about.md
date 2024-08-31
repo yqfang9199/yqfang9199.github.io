@@ -38,6 +38,7 @@ Selected Publications
 ------
 ### Journals
 - **Fang, Y.**, Wang, M., Potter, G. G., & Liu, M. (2023). Unsupervised cross-domain functional MRI adaptation for automated major depressive disorder identification. Medical Image Analysis, 84, 102707. (IF: 13.8, JCR Q1)
+- **Fang, Y.**, Wu, J., Wang, Q., Qiu, S., Bozoki, A., & Liu, M. (2024). Source-free collaborative domain adaptation via multi-perspective feature enrichment for functional MRI analysis. Pattern Recognition, 110912. (IF: 7.5, JCR Q1)
 - **Fang, Y.**, Yap, P. T., Lin, W., Zhu, H., & Liu, M. (2024). Source-free unsupervised domain adaptation: A survey. Neural Networks, 106230. (IF: 7.8, JCR Q1)
 - Wang, X.\*, **Fang, Y.\***, Yang, S., Zhu, D., Wang, M., Zhang, J., ... & Han, X. (2021). A hybrid network for automatic hepatocellular carcinoma segmentation in H&E-stained whole slide images. Medical Image Analysis, 68, 101914. (IF: 13.8, JCR Q1)
 - **Fang, Y.**, Potter, G. G., Wu, D., Zhu, H., & Liu, M. (2023). Addressing multi-site functional MRI heterogeneity through dual-expert collaborative learning for brain disease identification. Human Brain Mapping, 44(11), 4256-4271. (IF: 5.4, JCR Q1)
