@@ -28,18 +28,13 @@ News
 - [09/2025] One paper on multimodal MRI fusion for HIV-associated asymptomatic neurocognitive was accepted in **MICCAI 2025**. Congratulations to Zige!
 - [09/2025] One paper on domain generalization for medical image segmentation was accepted in **Pattern Recognition**. Congratulations to Yuheng!
 - [08/2024] One paper on source-free domain adaptation was accepted in **Pattern Recognition**.
-- [05/2024] One paper on multimodal fusion was **early accepted** in **MICCAI**.
+- [05/2024] One paper on multimodal fusion was early accepted in **MICCAI 2024**.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
 - [03/2024] One paper on source-free domain adaptation was accepted in **Neural Networks**.
 - [02/2024] One paper on interpretable fMRI analysis was accepted in **IEEE TBME**.
 - [10/2023] One paper on interpretable fMRI analysis was accepted in **MICCAI**.
 - [05/2023] One paper on fMRI adaptation was accepted in **Human Brain Mapping**.
-- [03/2023] One paper on fundus lesion segmentation was accepted in **Neurocomputing**.
 - [02/2023] One paper on fMRI adaptation was accepted in **Medical Image Analysis**.
-- [10/2022] One paper on microscopy image classification was accepted in **Genomics, Proteomics & Bioinformatics**.
-- [10/2022] One paper on structural MRI adaptation was accepted in **MICCAI**. 
-- [09/2022] One paper on PET/CT analysis was accepted in **MLMI**.
-- [06/2022] One paper on pathological complete response prediction was accepted in **Frontiers in Oncology**.
 
 <!--
 这里可以隐藏
