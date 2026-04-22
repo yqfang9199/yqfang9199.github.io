@@ -7,19 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Fang is an Assistant Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu Tong](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en) (AIMBE Fellow).
+Dr. Fang is a Tenure-Track Associate Professor at [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/main.htm). Before joining Nanjing University, She obtained Ph.D. from The Chinese University of Hong Kong (CUHK) in 2020, supervised by [Prof. Kai-Yu Tong](https://www.bme.cuhk.edu.hk/kytong/Profile.html) (AIMBE Fellow). She previously worked as a postdoctoral research associate at The University of North Carolina at Chapel Hill (2021-2024), supervised by [Prof. Mingxia Liu](https://mingxia.web.unc.edu/). She also interned at Tencent AI Lab (2019-2020) under the mentorship of [Dr. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=en) (AIMBE Fellow).
 
 Research Interests
 ------
 Focusing on interdisciplinary field of artificial intelligence (AI) and medical data analysis, aiming to develop intelligent systems that advance clinical decision-making and healthcare, including:  
-- Automated disease diagnosis  
-- Multi-modality data analysis
-- Model explainability  
-- Multi-site data adaptation  
+- Multimodal medical data analysis  
+- Medical agent/LLMs
+- Brain-computer interface
+- Drug recommendation
 
 News
 ------
-### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2025年保研/推免的硕士研究生4人，直博生/考核制博士研究生2人；招收2024年考研的硕士研究生2人，欢迎与我联系！`  
+### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `课题组招收2026年保研/推免的硕士研究生2-3人，直博生/考核制博士研究生1-2人，欢迎与我联系！`  
+- [04/2026] One paper on cross-domain medical image segmentation was accepted in **Pattern Recognition**. Congratulations to Yuheng!
+- [04/2026] Achieved **1st place** in Track B and **2nd place** in Track A in RIVA Cervical Cytology Challenge. The paper is accepted in **ISBI**. Congratulations to Yan Kong!
+- [02/2026] One paper on continual test-time adaptation in medical image segmentation was accepted in **Information Fusion**. Congratulations to Xiang Li!
+- [01/2026] One paper on sepsis treatment recommendation was accepted in **AAAI 2026**. Congratulations to Muchan!
+- [09/2025] One paper on lesion detection with human gaze was accepted in **MICCAI 2025**. Congratulations to Yan Kong!
+- [09/2025] One paper on multimodal MRI fusion for HIV-associated asymptomatic neurocognitive was accepted in **MICCAI 2025**. Congratulations to Zige!
+- [09/2025] One paper on domain generalization for medical image segmentation was accepted in **Pattern Recognition**. Congratulations to Yuheng!
 - [08/2024] One paper on source-free domain adaptation was accepted in **Pattern Recognition**.
 - [05/2024] One paper on multimodal fusion was **early accepted** in **MICCAI**.
 - [05/2024] Join **Nanjing University**, a new chapter starts!
@@ -33,6 +40,10 @@ News
 - [10/2022] One paper on structural MRI adaptation was accepted in **MICCAI**. 
 - [09/2022] One paper on PET/CT analysis was accepted in **MLMI**.
 - [06/2022] One paper on pathological complete response prediction was accepted in **Frontiers in Oncology**.
+
+<!--
+这里可以隐藏
+多行内容
 
 Selected Publications
 ------
@@ -54,6 +65,7 @@ Selected Publications
 - **Fang, Y.**, Chen, S., Wang, X., Leung, K. W., Wang, X., & Tong, K. Y. (2018, July). Real-time electromyography-driven functional electrical stimulation cycling system for chronic stroke rehabilitation. In 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 2515-2518). IEEE.
 
 (\* means co-first authors)
+-->
 
 Journal Reviews
 ------
